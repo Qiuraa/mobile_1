@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="20dp">
+
+    <TextView
+        android:id="@+id/txtNama"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/student_name"
+        android:textSize="24sp"/>
+
+    <TextView
+        android:id="@+id/txtNim"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/nim"
+        android:textSize="20sp"/>
+
+    <TextView
+        android:id="@+id/txtFakultas"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/fakultas"
+        android:textSize="20sp"/>
+
+    <TextView
+        android:id="@+id/txtProdi"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/program_studi"
+        android:textSize="20sp"/>
+
+    <TextView
+        android:id="@+id/txtKonsentrasi"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/konsentrasi"
+        android:textSize="20sp"/>
+
+</LinearLayout>

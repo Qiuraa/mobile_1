@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyApplication</string>
+
+    <string name="student_name">Gavin Timberlake Wijaya</string>
+    <string name="nim">03081240001</string>
+    <string name="fakultas">FAIDAS</string>
+    <string name="program_studi">Sistem Informasi</string>
+    <string name="konsentrasi">IOT</string>
+</resources>
